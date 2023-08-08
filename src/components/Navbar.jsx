@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import SC from '../assets/SC.png'
-import {FaBars,FaTimes,FaGithub, FaLinkedin} from 'react-icons/Fa'
+import {FaBars,FaTimes,FaGithub, FaLinkedin} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import { Link } from 'react-scroll';
