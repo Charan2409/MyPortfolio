@@ -10,13 +10,14 @@ const About = () => {
                 </div>
                 <div></div>
                 <div className='max-w-[1000px] w-full  grid sm:grid-cols-2 gap-8 px-4'>
-                    <div className='sm:text-right text-xl font-bold pl-4'>
-                        <p>Hello, I'm Charan,</p>
-                        <p>a passionate Front End Developer at Tata Consultancy Services.</p>
-                        <p>With a strong proficiency in React.js, I craft exceptional web experiences.</p>
-                    </div>
+                    <div className='sm:text-right lg:text-justify md:text-justify text-xl font-bold pl-4'>
+                        <p>Hello, I'm  Sai Charan Bandi,</p>
+                        <p className='text text-blue-500'>June 2021 - Present</p>
+                        <p className='text text-lg'>Working as a Front End Developer at Tata Consultancy Services,Hyderabad.</p>
+                        <p></p>
+                </div>
                     <div className='mb-28'>
-                        <p>Passionate about building excellent software that enriches lives, I specialize in creating solutions for individuals, small businesses, and large enterprises alike. Imagine having a software expert readily available at your fingertips!</p>
+                        <p>Passionate about building excellent software that enriches lives,With a strong proficiency in React.js, I craft exceptional web experiences. I specialize in creating solutions for individuals, small businesses, and large enterprises alike. Imagine having a software expert readily available at your fingertips!</p>
                     </div>
                 </div>
             </div>
