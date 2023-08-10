@@ -2,7 +2,7 @@ import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import { Link } from 'react-scroll'
 import Work from './Work'
-import { Bounce } from 'react-reveal/Bounce'
+
 
 const Home = () => {
   return (
