@@ -34,7 +34,7 @@ const Navbar = () => {
         </div>
         {/* Mobile device menu */}
         
-            <ul className={!nav ? 'hidden ' : "flex flex-col p-6 bg-white absolute top-20 right-0 mx-4 my-2 min-w-[140px] text-black z-10 rounded-xl"}>
+            <ul className={!nav ? 'hidden ' : "flex flex-col p-6 bg-white absolute z-50 top-20 right-0 mx-4 my-2 min-w-[50px] text-black z-10 rounded-xl"}>
                 <li className='py-6 text-4xl'><Link onClick={handleNav} to='home' smooth={true} duration={500}>Home</Link></li>
                 <li className='py-6 text-4xl'><Link onClick={handleNav} to='about' smooth={true} duration={500}>About</Link></li>
                 <li className='py-6 text-4xl'><Link onClick={handleNav} to='skills' smooth={true} duration={500}>Skills</Link></li>

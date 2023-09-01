@@ -16,7 +16,7 @@ export const data = [
     name: "React JS Application",
     image: namastefoodapp,
     github: "https://github.com/Charan2409/Namaste_FoodApp",
-    live: "not deployed yet",
+    live: "https://namaste-food-app.vercel.app/",
   },
   {
     id: 3,
